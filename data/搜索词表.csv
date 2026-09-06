@@ -1,0 +1,81 @@
+﻿SKU,广告活动,广告组,匹配方式,关键词,搜索词,曝光,点击,广告花费,广告订单,广告销售额
+A001,SP-A001-Core,AG-A001,精准,portable blender,portable blender,12144,73,54.75,9,359.91
+A001,SP-A001-Core,AG-A001,词组,portable blender,best portable blender,9847,51,44.37,4,159.96
+A001,SP-A001-Core,AG-A001,广泛,portable blender,cheap kitchen,8176,36,35.64,0,0.0
+A001,SP-A001-Core,AG-A001,自动,portable blender,portable blender accessory,6331,23,25.53,1,39.99
+A002,SP-A002-Core,AG-A002,精准,pet water fountain,pet water fountain,12325,74,55.5,9,296.91
+A002,SP-A002-Core,AG-A002,词组,pet water fountain,best pet water fountain,10626,55,47.85,4,131.96
+A002,SP-A002-Core,AG-A002,广泛,pet water fountain,cheap pet supplies,8265,36,35.64,0,0.0
+A002,SP-A002-Core,AG-A002,自动,pet water fountain,pet water fountain accessory,6327,23,25.53,1,32.99
+A003,SP-A003-Core,AG-A003,精准,led desk lamp,led desk lamp,12150,73,54.75,9,224.91
+A003,SP-A003-Core,AG-A003,词组,led desk lamp,best led desk lamp,10135,53,46.11,4,99.96
+A003,SP-A003-Core,AG-A003,广泛,led desk lamp,cheap home office,8298,37,36.63,0,0.0
+A003,SP-A003-Core,AG-A003,自动,led desk lamp,led desk lamp accessory,6310,23,25.53,1,24.99
+A004,SP-A004-Core,AG-A004,精准,yoga mat,yoga mat,11890,71,53.25,9,179.91
+A004,SP-A004-Core,AG-A004,词组,yoga mat,best yoga mat,10198,53,46.11,4,79.96
+A004,SP-A004-Core,AG-A004,广泛,yoga mat,cheap sports,8439,37,36.63,0,0.0
+A004,SP-A004-Core,AG-A004,自动,yoga mat,yoga mat accessory,6662,24,26.64,1,19.99
+A005,SP-A005-Core,AG-A005,精准,phone stand,phone stand,11990,72,54.0,9,116.91
+A005,SP-A005-Core,AG-A005,词组,phone stand,best phone stand,10141,53,46.11,4,51.96
+A005,SP-A005-Core,AG-A005,广泛,phone stand,cheap electronics,8160,36,35.64,0,0.0
+A005,SP-A005-Core,AG-A005,自动,phone stand,phone stand accessory,6872,25,27.75,1,12.99
+A006,SP-A006-Core,AG-A006,精准,insulated water bottle,insulated water bottle,11849,71,53.25,9,206.91
+A006,SP-A006-Core,AG-A006,词组,insulated water bottle,best insulated water bottle,10051,52,45.24,4,91.96
+A006,SP-A006-Core,AG-A006,广泛,insulated water bottle,cheap outdoor,8419,37,36.63,0,0.0
+A006,SP-A006-Core,AG-A006,自动,insulated water bottle,insulated water bottle accessory,6419,23,25.53,1,22.99
+A007,SP-A007-Core,AG-A007,精准,desk organizer,desk organizer,11637,70,52.5,8,135.92
+A007,SP-A007-Core,AG-A007,词组,desk organizer,best desk organizer,10249,53,46.11,4,67.96
+A007,SP-A007-Core,AG-A007,广泛,desk organizer,cheap office,8522,37,36.63,0,0.0
+A007,SP-A007-Core,AG-A007,自动,desk organizer,desk organizer accessory,7091,26,28.86,1,16.99
+A008,SP-A008-Core,AG-A008,精准,wireless charger,wireless charger,11867,71,53.25,9,269.91
+A008,SP-A008-Core,AG-A008,词组,wireless charger,best wireless charger,9919,52,45.24,4,119.96
+A008,SP-A008-Core,AG-A008,广泛,wireless charger,cheap electronics,8236,36,35.64,0,0.0
+A008,SP-A008-Core,AG-A008,自动,wireless charger,wireless charger accessory,6322,23,25.53,1,29.99
+A009,SP-A009-Core,AG-A009,精准,air fryer liners,air fryer liners,12147,73,54.75,9,107.91
+A009,SP-A009-Core,AG-A009,词组,air fryer liners,best air fryer liners,10467,54,46.98,4,47.96
+A009,SP-A009-Core,AG-A009,广泛,air fryer liners,cheap kitchen,8259,36,35.64,0,0.0
+A009,SP-A009-Core,AG-A009,自动,air fryer liners,air fryer liners accessory,7020,25,27.75,1,11.99
+A010,SP-A010-Core,AG-A010,精准,resistance bands,resistance bands,11828,71,53.25,9,143.91
+A010,SP-A010-Core,AG-A010,词组,resistance bands,best resistance bands,10661,55,47.85,4,63.96
+A010,SP-A010-Core,AG-A010,广泛,resistance bands,cheap sports,8362,37,36.63,0,0.0
+A010,SP-A010-Core,AG-A010,自动,resistance bands,resistance bands accessory,7045,25,27.75,1,15.99
+A011,SP-A011-Core,AG-A011,精准,smart doorbell,smart doorbell,12462,75,56.25,9,539.91
+A011,SP-A011-Core,AG-A011,词组,smart doorbell,best smart doorbell,10260,53,46.11,4,239.96
+A011,SP-A011-Core,AG-A011,广泛,smart doorbell,cheap electronics,8703,38,37.62,0,0.0
+A011,SP-A011-Core,AG-A011,自动,smart doorbell,smart doorbell accessory,6481,23,25.53,1,59.99
+A012,SP-A012-Core,AG-A012,精准,car vacuum cleaner,car vacuum cleaner,12335,74,55.5,9,413.91
+A012,SP-A012-Core,AG-A012,词组,car vacuum cleaner,best car vacuum cleaner,10289,54,46.98,4,183.96
+A012,SP-A012-Core,AG-A012,广泛,car vacuum cleaner,cheap automotive,8516,37,36.63,0,0.0
+A012,SP-A012-Core,AG-A012,自动,car vacuum cleaner,car vacuum cleaner accessory,6268,23,25.53,1,45.99
+A013,SP-A013-Core,AG-A013,精准,hair dryer brush,hair dryer brush,11716,70,52.5,8,287.92
+A013,SP-A013-Core,AG-A013,词组,hair dryer brush,best hair dryer brush,10077,52,45.24,4,143.96
+A013,SP-A013-Core,AG-A013,广泛,hair dryer brush,cheap beauty,8018,35,34.65,0,0.0
+A013,SP-A013-Core,AG-A013,自动,hair dryer brush,hair dryer brush accessory,6289,23,25.53,1,35.99
+A014,SP-A014-Core,AG-A014,精准,coffee grinder,coffee grinder,12266,74,55.5,9,251.91
+A014,SP-A014-Core,AG-A014,词组,coffee grinder,best coffee grinder,10069,52,45.24,4,111.96
+A014,SP-A014-Core,AG-A014,广泛,coffee grinder,cheap kitchen,8677,38,37.62,0,0.0
+A014,SP-A014-Core,AG-A014,自动,coffee grinder,coffee grinder accessory,6248,22,24.42,1,27.99
+A015,SP-A015-Core,AG-A015,精准,laptop stand,laptop stand,12175,73,54.75,9,233.91
+A015,SP-A015-Core,AG-A015,词组,laptop stand,best laptop stand,10351,54,46.98,4,103.96
+A015,SP-A015-Core,AG-A015,广泛,laptop stand,cheap office,8758,39,38.61,0,0.0
+A015,SP-A015-Core,AG-A015,自动,laptop stand,laptop stand accessory,6587,24,26.64,1,25.99
+A016,SP-A016-Core,AG-A016,精准,dog grooming kit,dog grooming kit,12269,74,55.5,9,260.91
+A016,SP-A016-Core,AG-A016,词组,dog grooming kit,best dog grooming kit,10073,52,45.24,4,115.96
+A016,SP-A016-Core,AG-A016,广泛,dog grooming kit,cheap pet supplies,8680,38,37.62,0,0.0
+A016,SP-A016-Core,AG-A016,自动,dog grooming kit,dog grooming kit accessory,6792,24,26.64,1,28.99
+A017,SP-A017-Core,AG-A017,精准,solar string lights,solar string lights,11659,70,52.5,8,151.92
+A017,SP-A017-Core,AG-A017,词组,solar string lights,best solar string lights,10050,52,45.24,4,75.96
+A017,SP-A017-Core,AG-A017,广泛,solar string lights,cheap outdoor,8811,39,38.61,0,0.0
+A017,SP-A017-Core,AG-A017,自动,solar string lights,solar string lights accessory,6387,23,25.53,1,18.99
+A018,SP-A018-Core,AG-A018,精准,neck massager,neck massager,11787,71,53.25,9,386.91
+A018,SP-A018-Core,AG-A018,词组,neck massager,best neck massager,10591,55,47.85,4,171.96
+A018,SP-A018-Core,AG-A018,广泛,neck massager,cheap health,8125,36,35.64,0,0.0
+A018,SP-A018-Core,AG-A018,自动,neck massager,neck massager accessory,6622,24,26.64,1,42.99
+A019,SP-A019-Core,AG-A019,精准,travel backpack,travel backpack,12021,72,54.0,9,449.91
+A019,SP-A019-Core,AG-A019,词组,travel backpack,best travel backpack,10482,55,47.85,4,199.96
+A019,SP-A019-Core,AG-A019,广泛,travel backpack,cheap luggage,8172,36,35.64,0,0.0
+A019,SP-A019-Core,AG-A019,自动,travel backpack,travel backpack accessory,7035,25,27.75,1,49.99
+A020,SP-A020-Core,AG-A020,精准,electric kettle,electric kettle,11901,71,53.25,9,305.91
+A020,SP-A020-Core,AG-A020,词组,electric kettle,best electric kettle,9882,51,44.37,4,135.96
+A020,SP-A020-Core,AG-A020,广泛,electric kettle,cheap kitchen,8868,39,38.61,0,0.0
+A020,SP-A020-Core,AG-A020,自动,electric kettle,electric kettle accessory,6764,24,26.64,1,33.99

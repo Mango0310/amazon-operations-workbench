@@ -1,0 +1,21 @@
+﻿SKU,产品名称,类目,售价,成本,上架日期,产品阶段
+A001,Portable Blender,Kitchen,39.99,12.0,2026-03-01,成熟
+A002,Pet Water Fountain,Pet Supplies,32.99,9.0,2026-02-15,成熟
+A003,LED Desk Lamp,Home Office,24.99,7.0,2026-03-20,成熟
+A004,Yoga Mat,Sports,19.99,6.0,2026-04-10,成熟
+A005,Phone Stand,Electronics,12.99,3.5,2026-04-25,成熟
+A006,Insulated Water Bottle,Outdoor,22.99,7.0,2026-05-01,成熟
+A007,Desk Organizer,Office,16.99,5.0,2026-05-15,成熟
+A008,Wireless Charger,Electronics,29.99,10.0,2026-05-20,成长
+A009,Air Fryer Liners,Kitchen,11.99,3.0,2026-06-01,成熟
+A010,Resistance Bands,Sports,15.99,4.5,2026-06-10,成熟
+A011,Smart Doorbell,Electronics,59.99,22.0,2026-08-01,新品
+A012,Car Vacuum Cleaner,Automotive,45.99,16.0,2026-08-05,新品
+A013,Hair Dryer Brush,Beauty,35.99,12.0,2026-07-20,新品
+A014,Coffee Grinder,Kitchen,27.99,9.0,2026-02-01,衰退
+A015,Laptop Stand,Office,25.99,8.0,2026-03-10,成熟
+A016,Dog Grooming Kit,Pet Supplies,28.99,9.0,2026-05-25,成熟
+A017,Solar String Lights,Outdoor,18.99,5.5,2026-06-15,成长
+A018,Neck Massager,Health,42.99,14.0,2026-01-20,衰退
+A019,Travel Backpack,Luggage,49.99,13.0,2026-04-01,成长
+A020,Electric Kettle,Kitchen,33.99,11.0,2026-02-20,成熟

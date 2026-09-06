@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 个人简历与求职材料 —— 绝不提交
+outputs/resume/
+
+# 本地启动脚本与工作区规则（含本机路径，不上传）
+*.bat
+AGENTS.md
+run_workbench.py
+
+# 面试材料（面试话术/训练计划等求职文档，不上传）
+docs/
+
+# 运行产物与日志
+*.log
+*.err.log
+*.out.log
+.streamlit.pid
+_d.txt
+
+# 环境与密钥
+.env
+.env.local
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
